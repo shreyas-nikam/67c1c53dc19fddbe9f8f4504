@@ -1,5 +1,3 @@
-
-```
 # QuLab - Financial News Sentiment Analyzer
 
 ## Description
